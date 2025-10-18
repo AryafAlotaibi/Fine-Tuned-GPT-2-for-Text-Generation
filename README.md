@@ -26,3 +26,6 @@ These results indicate moderate language modeling performance, with reasonable f
  - [Fine-tuning Tutorial by Y. Kenny](https://www.kaggle.com/code/yeeeekenny/model-finetuning/notebook)  
  - [GeeksforGeeks Text Generation Guide](https://www.geeksforgeeks.org/text2text-generations-using-huggingface-model/)
 
+
+Team Members:
+Aryaf Alotaibi - Reema Alghannam - Sarah Alowjan - Sara Alayban
